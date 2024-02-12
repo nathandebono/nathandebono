@@ -1,8 +1,1 @@
-- 👋 Hi, I’m @nathandebono
-- 👀 I enjoy learning and playing games.
-- 🌱 I’m currently learning Python
-
-<!---
-nathandebono/nathandebono is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=10&background=374DFF00&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I+am+Nathan.+I+enjoy+learning;+new+things+and+playing+video+games)](https://git.io/typing-svg)
